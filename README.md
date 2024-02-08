@@ -9,8 +9,7 @@
 
 - [전체코드](https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic)
 
-## 프로젝트 코드 설명
+## 프로젝트 : 설명
 
-- [ParamArgs](https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic/ParamArgs)
-- Basic/ParamArgs
+- [ParamArgs](Basic/ParamArgs)
   : 파라미터(매개변수)와 아규먼트(인수) 차이
