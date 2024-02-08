@@ -7,7 +7,7 @@
 
 ## 코드 위치
 
-- [전체코드](https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic)
+- [전체코드](Basic)
 
 ## 프로젝트 : 설명
 
