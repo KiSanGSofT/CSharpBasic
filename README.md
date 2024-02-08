@@ -5,4 +5,8 @@
 
 ## 코드 위치
 
-[/basic](https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic)https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic
+- https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic
+
+## 프로젝트 코드 설명
+
+- ParamArgs : 파라미터(매개변수)와 아규먼트(인수) 차이
