@@ -11,5 +11,5 @@
 
 ## 프로젝트 : 설명
 
-- [ParamArgs](Basic/ParamArgs)
-  : 파라미터(매개변수)와 아규먼트(인수) 차이
+- [ParamArgs](Basic/SendParam_ReceiveArgu)
+  : 매개변수(파라미터/Parameter)와 인수(아규먼트/Argument) 차이
