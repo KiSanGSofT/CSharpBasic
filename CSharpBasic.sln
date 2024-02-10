@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasic", "CSharpBasic.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{A887E8CA-FB2E-41DD-93E3-9FCEC7F8B683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\Basic\ParamArgu\WindowsFormsApp1\WindowsFormsApp1.csproj", "{5CFA5C3F-9B0F-4021-92C8-E4A70E7EE680}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paramer-Argument", "..\Basic\Paramer-Argument\Paramer-Argument.csproj", "{0DB28F3F-87E4-4AD7-80AB-BCA0C1ACA3B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +19,16 @@ Global
 		{9587B3EF-E142-4CAE-81C1-B94A5B337643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9587B3EF-E142-4CAE-81C1-B94A5B337643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9587B3EF-E142-4CAE-81C1-B94A5B337643}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5CFA5C3F-9B0F-4021-92C8-E4A70E7EE680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CFA5C3F-9B0F-4021-92C8-E4A70E7EE680}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CFA5C3F-9B0F-4021-92C8-E4A70E7EE680}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CFA5C3F-9B0F-4021-92C8-E4A70E7EE680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB28F3F-87E4-4AD7-80AB-BCA0C1ACA3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB28F3F-87E4-4AD7-80AB-BCA0C1ACA3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB28F3F-87E4-4AD7-80AB-BCA0C1ACA3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB28F3F-87E4-4AD7-80AB-BCA0C1ACA3B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5CFA5C3F-9B0F-4021-92C8-E4A70E7EE680} = {A887E8CA-FB2E-41DD-93E3-9FCEC7F8B683}
+		{0DB28F3F-87E4-4AD7-80AB-BCA0C1ACA3B3} = {A887E8CA-FB2E-41DD-93E3-9FCEC7F8B683}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FA0071D-2E66-412D-B819-C62FBFD8E009}
