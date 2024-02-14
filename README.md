@@ -14,4 +14,5 @@
 - [SendParam_ReceiveArgu](Basic/SendParam_ReceiveArgu)
   : 매개변수(파라미터/Parameter)와 인수(아규먼트/Argument) 차이
 - [BaseClass](https://github.com/KiSanGSofT/CSharpBasic/tree/master/Basic/BaseClass)
-  : 기본클래스(Base class) 의 상
+  : 기본클래스(Base class) 의 상속
+  
