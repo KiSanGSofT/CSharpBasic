@@ -1,5 +1,1 @@
-# »ó¼Ó / ±âº»Å¬·¡½º <- ÆÄ»ýÅ¬ÆÐ½º
-
-## Âü°í
-
-- [ÆÄ»ýÅ¬·¡½º](https://www.csharpstudy.com/CSharp/CSharp-inheritance.aspx)
+# ìƒì† / ê¸°ë³¸í´ëž˜ìŠ¤ <- íŒŒìƒí´íŒ¨ìŠ¤
