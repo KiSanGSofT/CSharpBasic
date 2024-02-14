@@ -16,5 +16,15 @@ namespace BaseClass
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Console.WriteLine($"\n----- Start --------------------\n");
+
+            DeriveCls cls = new DeriveCls();
+            cls.PrintBaseClassValue();
+
+            Console.WriteLine($"\n----- Start --------------------\n");
+        }
     }
 }

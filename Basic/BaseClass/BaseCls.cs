@@ -8,5 +8,6 @@ namespace BaseClass
 {
     internal class BaseCls
     {
+        public object anyVal = "어떤 값";
     }
 }
